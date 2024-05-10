@@ -1,18 +1,8 @@
 <!-- 소개  -->
-<h3 align="center">
-        <samp>AWS Cloud School 4기 프로젝트
-        </samp>
-</h3>
+# AWS Cloud School 4기
 
-<p align="center"> 
-  <samp>
-    
-    <br>
-    「 Cloud와 친해지기 위한 여정을 기록한 repository 」
-    <br>
-    <br>
-  </samp>
-</p>
+<br>
+<br>
 
 <!-- AWS Cloud School 과정 -->
 
