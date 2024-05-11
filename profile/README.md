@@ -1,123 +1,159 @@
 <!-- 소개  -->
-# AWS Cloud School 4기
 
-<br>
-<br>
+![title](https://capsule-render.vercel.app/api?type=waving&height=400&text=AWS%20Cloud%20School%204기&fontAlign=50&fontAlignY=40&color=timeGradient&desc=2024-01-16%20~%202024-07-31)
 
 <!-- AWS Cloud School 과정 -->
 
-## AWS Cloud School 4기 탐방 기록
+<h1 align="center"> Projects </h1>
 
-### Linux
+![linuxTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=Linux%20Project&color=FCC624&fontSize=30&fontAlign=17&fontColor=544E28)
 
-1. VM과 함께 서버 구축 탐방기
+![linuxproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20VM과%20함께하는%20서버%20구축%20프로젝트%20%20%20%20%20%20%20%20%20%20%20%20&textBg=true&textBgColor=183A61&fontSize=25&fontColor=F2FAEB&fontAlign=26)
 
-### Database
+**1조.** HAProxy 구성하기
 
-2. DB <-> 애플리케이션 연동 탐방기
+**2조.** Monitoring & File Server 구성
 
-### Python
+**3조.** 보안 회선 VPN 구성
 
-3. Python으로 데이터 분석 발 담가보기
+**4조.** NAT Server 구성
 
-### AWS Workshop
+**5조.** DMZ (방화벽) 구축
 
-4. AWS 찍먹해보기
+**6조.** Nginx를 이용한 API Gateway 구축
 
-### Docker
+**7조.** DNS Server 및 Email Service 구성
 
-5. HA Proxy + Keep alived로 구축해보는 고가용성 Docker 컨테이너
+<br>
 
-6. Private Docker Registry 탐방기
+![awsTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=%20AWS%20Workshop%20Project&color=FF9900&fontSize=30&fontAlign=25)
 
-7. Docker와 함께하는 애플리케이션 배포 프로젝트
+![awsproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20AWS%20찍먹%20프로젝트%20%20%20%20%20%20%20%20&textBg=true&textBgColor=E7157B&fontSize=25&fontColor=F2FAEB&fontAlign=18)
 
-### 쿠버네티스
+**1조.** Building Web Applications on EKS
 
-8. ETCD에 대해 알아보자!
+**2조.** Cognito JWT Deep Dive
 
-9. 쿠버네티스로 애플리케이션 배포 프로젝트
+**3조.** AWS Serverless SaaS Workshop
 
-### CI/CD
+**4조.** Introduction to Amazon EKS
 
-10. CI/CD 탐방기
+**5조.** CloudFormation
 
-<br/>
+**6조.** Serverless Observability
 
-## VM과 함께 서버 구축 탐방기
+**7조.** demogo ecs cats and dogs
 
-**주제1.** HAProxy 구성
+![databaseTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=Databse%20Project&color=569A31&fontSize=30&fontAlign=19&fontColor=F2FAEB)
 
-**주제2.** Monitoring & File Server 구성
+![databaseproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20DB와%20애플리케이션%20연동%20프로젝트%20%20%20%20%20%20%20%20%20%20%20%20&textBg=true&textBgColor=4479A1&fontSize=25&fontColor=F2FAEB&fontAlign=26)
 
-**주제3.** 보안 회선 VPN 구성
+**1조.** Awesome 학술정보관
 
-**주제4.** NAT Server 구성
+**2조.** KBO DB 시스템
 
-**주제5.** DMZ (방화벽) 구축
+**3조.** 보드게임 검색 - 다있으 (DICE)
 
-**주제6.** Nginx를 이용한 API Gateway 구축
+**4조.** 스터디카페 예약 시스템
 
-**주제7.** DNS Server 및 Email Service 구성
+**5조.** 로드밸런스 시스템
 
-<br/>
+**6조.** RAPAGOPA - 식당 리뷰 시스템
 
-## DB <-> 애플리케이션 연동 탐방기
+**7조.** 가보장 관리
 
-![BoardGameCafe](https://github-readme-stats.vercel.app/api/pin/?username=awscloudschool4&repo=BoardGameCafesApp&border_color=7F3FBF&bg_color=E5E4E2&title_color=36454F&text_color=36454F&icon_color=7F3FBF)
+<br>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&labelColor=black&logo=oracle&logoColor=F80000)
+![pythonTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=Python%20Project&color=3776AB&fontSize=30&fontAlign=18&fontColor=F2FAEB)
 
-<br/>
+![pythonproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20Python과%20함께하는%20데이터분석%20프로젝트%20%20%20%20%20%20%20%20%20%20%20%20&textBg=true&textBgColor=150458&fontSize=25&fontColor=F2FAEB&fontAlign=30)
 
-## Python으로 데이터 분석 발 담가보기
+**1조.** 식당개업 및 트렌드 음식 분석
 
-<br/>
+**2조.** 반도체 주식 데이터 분석
 
-## AWS 찍먹해보기
+**3조.** 네이버 웹툰 분석
 
-**주제1.** Building Web Applications on EKS
+**4조.** 항공권 추천 서비스
 
-**주제2.** Cognito_JWT_Deep_Dive
+**5조.** 이사 지역 추천 서비스
 
-**주제3.** AWS_Serverless_SaaS_Workshop
+**6조.** 전력소비량 예측
 
-**주제4.** Introduction to Amazon EKS
+**7조.** 신입 유튜버를 위한 성공 전략 가이드
 
-**주제5.** CloudFormation
+<br>
 
-**주제6.** Serverless Observability
+![dockerTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=%20Docker%20Project&color=2496ED&fontSize=30&fontAlign=20&fontColor=F2FAEB)
 
-**주제7.** demogo ecs cats and dogs
+![dockerproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20HaProxy%20with%20keepAlived%20프로젝트%20%20%20%20%20%20%20&textBg=true&textBgColor=AC6199&fontSize=25&fontColor=F2FAEB&fontAlign=31)
 
-<br/>
+![dockerproject2](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20Private%20docker%20registry%20프로젝트%20%20%20%20%20%20&textBg=true&textBgColor=60B932&fontSize=25&fontColor=F2FAEB&fontAlign=30)
 
-## HA Proxy + Keep alived로 구축해보는 고가용성 Docker 컨테이너
+![dockerproject3](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20Docker와%20함께하는%20애플리케이션%20배포%20프로젝트%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&textBg=true&textBgColor=4285F4&fontSize=25&fontColor=F2FAEB&fontAlign=36)
 
-<br/>
+**1조.** 커피 정보 사이트
 
-## Private Docker Registry 탐방기
+**2조.** 취UP해야지
 
-<br/>
+**3조.** AGORA
 
-## Docker와 함께하는 애플리케이션 배포 프로젝트
+**4조.** 익명 Q&A 게시판
 
-<br/>
+**5조.** Attend Cloud School
 
-## ETCD에 대해 알아보자!
+**6조.** ACS Wiki
 
-<br/>
+**7조.** TravelLog
 
-## 쿠버네티스로 애플리케이션 배포 프로젝트
+![k8sTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=%20Kubernetes%20Project&color=2496ED&fontSize=30&fontAlign=22&fontColor=F2FAEB)
 
-<br/>
+![k8sproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20etcd%20파헤쳐보기%20프로젝트%20%20%20%20%20%20%20%20&textBg=true&textBgColor=419EDA&fontSize=25&fontColor=F2FAEB&fontAlign=22)
 
-## CI/CD 탐방기
+**1조.** 내부 ETCD
 
-<br/>
+**2조.** 외부 ETCD
+
+**3조.** 외부 ETCD
+
+**4조.** 내부 ETCD
+
+**5조.** 외부 ETCD with KubeSpray
+
+**6조.** 내부 ETCD
+
+**7조.** 외부 ETCD with KubeSpray
+
+![k8sproject2](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20k8s와%20함께하는%20애플리케이션%20배포%20프로젝트%20%20%20%20%20%20%20%20%20%20%20%20%20&textBg=true&textBgColor=0079C1&fontSize=25&fontColor=F2FAEB&fontAlign=32)
+
+**1조.** ACS Wiki
+
+**2조.** 출석부
+
+**3조.** 대보름 커피
+
+**4조.** Agora
+
+**5조.** 취Up해야지
+
+**6조.** TravelLog
+
+**7조.** Q&A ClassNote
+
+![cicdTitle](https://capsule-render-theta.vercel.app/api?type=rect&height=70&text=%20CI/CD%20Project&color=2088FF&fontSize=30&fontAlign=17&fontColor=F2FAEB)
+
+![cicdproject1](https://capsule-render-theta.vercel.app/api?type=transparent&height=100&text=%20CI/CD와%20함께하는%20애플리케이션%20배포%20프로젝트%20%20%20%20%20%20%20%20%20%20%20%20%20&textBg=true&textBgColor=EF7B4D&fontSize=25&fontColor=F2FAEB&fontAlign=33)
+
+**1조.** QnA
+
+**2조.** 출석부
+
+**3조.** ACS Wiki
+
+**4조.** 대보름 커피
+
+**5조.** 취Up
+
+**6조.** TravelLog
+
+**7조.** Agora
